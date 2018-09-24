@@ -16,5 +16,5 @@ gpgcheck=0
 enabled=1
 EOF
 
-
+# ip 自己修改
 sudo EXTERNAL_URL="http://47.105.82.240" yum install -y gitlab-ce
